@@ -1,2 +1,2 @@
 # git-gitHub
-repo for devops training
+repo for devops training learning
